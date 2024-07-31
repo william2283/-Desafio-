@@ -1,0 +1,58 @@
+.container-formulario {
+    width: 50%; 
+    margin: 0 auto; 
+}
+.titulo{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.container-select-marca {
+    margin-bottom: 10px; 
+}
+
+.container-input-aeronave {
+    margin-bottom: 10px; 
+}
+.input-aeronave {
+    width: 98%;
+    height: 20px;
+}
+.input-descricao {
+    width: 98%;
+    height: 20px;
+    margin-top: 10px;
+}
+.select-marca {
+    width: 100%;
+    height: 25px;
+    border-radius: 6px;
+}
+.button-container {
+    text-align: right; 
+}
+.button-containerEditar {
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+    height: 25px;
+    width: 80px;
+    border-radius: 5px
+}
+.input-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px; 
+}
+
+.select-vendido {
+    width: 47%;
+    height: 25px;
+    border-radius: 6px;
+}
+.input-ano {
+    width: 47%;
+    height: 20px;
+}

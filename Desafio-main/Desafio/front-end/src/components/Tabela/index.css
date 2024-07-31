@@ -1,0 +1,23 @@
+.tabela {
+    width: 100%; 
+    border-collapse: collapse;
+    margin-top: 15px;
+  }
+  
+  .tabela th, .tabela td {
+    border: 1px solid #9b9b9b; 
+    padding: 8px;
+    text-align: center; 
+  }
+  
+  .tabela th {
+    background-color: #f2f2f2; 
+  }
+.input-pesquisa {
+    width: 30%;
+    height: 20px;
+}
+
+.icone {
+  color: black;
+}
